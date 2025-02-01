@@ -25,6 +25,7 @@ if (config.use_env_variable) {
     }
   );
 }
+
 fs
   .readdirSync(__dirname)
   .filter(file => {
