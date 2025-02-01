@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mrifk",
+    "password": null,
+    "database": "db_express",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "mrifk",
+    "password": null,
+    "database": "db_express",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "mrifk",
+    "password": null,
+    "database": "db_express",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}
